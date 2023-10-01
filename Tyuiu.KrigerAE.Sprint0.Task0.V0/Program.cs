@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Tyuiu.KrigerAE.Sprint1.Task0.V0
+namespace Tyuiu.KrigerAE.Sprint0.Task0.V0
 {
     class Program
     {
-        static void Main (string[] args)
+        static void Main(string[] args)
         {
         }
     }
