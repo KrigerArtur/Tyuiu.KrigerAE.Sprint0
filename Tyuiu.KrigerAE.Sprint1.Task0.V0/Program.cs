@@ -8,7 +8,7 @@ namespace Tyuiu.KrigerAE.Sprint1.Task0.V0
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main (string[] args)
         {
         }
     }
